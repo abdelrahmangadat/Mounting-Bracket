@@ -3,12 +3,15 @@ CAD files for a 3D-printable articulated mounting bracket
 
 ## 
 ![Part](part.png)
+
 I created this part in Fusion 360, which was the perfect tool for the job. My goal was to design a lightweight yet sturdy bracket that could securely mount an accessory to a bike frame.
 
 ## 
 ![Drawing](iso.png)
+
 ![front](front.png)
 ![top](top.png)
+
 I used a few core features in Fusion 360 to bring this design to life: 
   Extrude: I began with a 2D sketch of the part's profile and extruded it to give it its initial thickness. This is always the first step for a part like this.
   Fillets and Chamfers: I added fillets and chamfers to smooth out the edges, which is important for both aesthetics and safety.
