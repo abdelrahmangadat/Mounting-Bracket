@@ -1,5 +1,5 @@
 # Mounting-Bracket
-CAD files for a 3D-printable articulated mounting bracket
+CAD files for a 3D-printable mounting bracket
 
 ## 
 ![Part](part.png)
